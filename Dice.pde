@@ -125,7 +125,6 @@ class Die {
 				}
 
 		}
-		System.out.println(total);
 		textSize(18);
 		textAlign(CENTER);
 		text("Total:", 500, 490);
